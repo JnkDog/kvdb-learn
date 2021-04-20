@@ -23,8 +23,10 @@ int insert(int* add_val) {
     }
     // if the 
     if (MAX_KEY_LEN <= root->count) {
-        // call deal func
+        // call dealing func
     }
+
+    
 }
 
 int main() {
